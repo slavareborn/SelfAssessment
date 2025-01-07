@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model +
+  - Modeling +
   - Subject domain
-  - Algorithm ~
-  - Syntax ~
+  - Algorithm *
+  - Syntax +
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language ~
+  - Paradigm +
+  - Programm *
+  - Programming paradigm +
+  - Programming language *
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module +
+  - Library *
+  - Package *
   - Component
-  - Framework ~
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering ~
+  - Framework *
+  - Platform *
+  - Source code ~
+  - Object code ~
+  - Machine code ~
+  - Microcode 
+  - Software engineering +
   - Decomposition
   - Control flow
   - Data flow
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value ~
-  - Identifier ~
-  - Variable ~
-  - Constant ~
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function ~
-  - Procedure 
-  - Method ~
-  - Class ~
-  - Prototype
-  - Event
-  - Type ~
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
+  - Scalar +
+  - Literal * 
+  - Expression ~
+  - Heap ~
+  - Function *
+  - Procedure +
+  - Method *
+  - Class +
+  - Prototype ~
+  - Event ~
+  - Type *
+  - Flag ~
+  - Lexical scope 
+  - Code block +
+  - Conditions *
+  - Loops *
+  - Assignment ~
   - Regular expression
-  - Interface
+  - Interface +
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case ~
+  - Snake case ~
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early +
   - Fail-fast
 - Types
   - Primitive types ~
-  - Reference types
+  - Reference types ~
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument ~
-  - Parameter ~
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
+  - Signature +
+  - Argument *
+  - Parameter *
+  - Pure function ~
+  - Lambda expression +
+  - Side effects ~
+  - Closure *
+  - Partial application ~
+  - Currying 
+  - Higher order +
+  - Recursion *
+  - Tail call optimisation ~
+  - Callback *
   - Listener
   - Composition
   - Pipe
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array ~
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
+  - Array *
+  - Structure *
+  - Record ~
+  - Enum ~
+  - Instance ~
+  - Object -
+  - Collection +
+  - Set +
+  - Hash table ~
+  - Linked list ~
+  - Doubly list ~
+  - Unrolled list ~
+  - Circular list ~
+  - Queue ~
+  - Stack ~
   - Deque
-  - Tree
+  - Tree ~
   - Graph
-  - Iterator
+  - Iterator *
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON *
   - JSON5
   - YAML
 - Networking
@@ -142,18 +142,18 @@
   - URN
   - URI
 - Process and tools
-  - Compiler +
+  - Compiler * 
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter ~
   - Polyfill
-  - Interpreter
-  - Linker
+  - Interpreter ~
+  - Linker ~
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime +
+  - Virtual machine +
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -161,11 +161,11 @@
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review +
   - Exception
-  - Unittesting
-  - git
-  - Github
+  - Unittesting ~
+  - git *
+  - Github *
   - Docker
   - Kubernetes
   - GCC
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 ~
   - VJM
   - CLR
   - Mono
@@ -212,12 +212,12 @@
   - Drivers *
   - Kernel
   - Ring
-  - Virtual memory
+  - Virtual memory +
   - File system *
-  - Linux ~
-  - Unix ~
+  - Linux *
+  - Unix 
   - BSD
-  - MacOS
+  - MacOS +
   - Windows *
   - Real-time OS
   - Embedded OS
