@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules +
   - ECMAScript modules
-  - Module `node:module`
+  - Module `node:module` *
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` *
+  - Files `package.json`, `package-lock.json` *
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -103,7 +103,7 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository *
   - Active record
   - Query builder
   - Object-Relational Mapping

@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `Object` *
+  - `Function` *
+  - `Boolean` *
+  - `Number` *
+  - `BigInt` ~
+  - `String` *
+  - `Symbol` *
+  - `Infinity` ~
+  - `NaN` +
+  - `undefined` *
+  - `null` *
+  - `this` +
+  - `instanceof` ~
+  - `...spread` *
+  - `...rest` ~
+  - `typeof` *
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators *
   - Async generator
   - Async iterator
   - Chaining
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` ~
-  - `while` ~
-  - `do..while` ~
-  - `for` ~
-  - `for..in` ~
-  - `for..of` ~
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `if` *
+  - `while` *
+  - `do..while` *
+  - `for` *
+  - `for..in` *
+  - `for..of` *
+  - `for await` +
+  - `throw` +
+  - `break` *
+  - `continue` +
+  - `import` +
+  - `export` +
+  - `label` ~
+  - `try..catch` ~
+  - `switch` +
+  - `class` +
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function *
   - Async function
   - Function declaration
   - Function expression
@@ -88,10 +88,10 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` 
 - Data structures
-  - `Array` ~
-  - `Map`
+  - `Array` *
+  - `Map` +
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -106,7 +106,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` +
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js *
+  - npm *
+  - prettier *
   - MDN
   - TC39
