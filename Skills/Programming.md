@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm ~
+  - Syntax ~
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language ~
   - Contract
   - Module
   - Library
   - Package
   - Component
-  - Framework
+  - Framework ~
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering ~
   - Decomposition
   - Control flow
   - Data flow
@@ -32,21 +32,21 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value ~
+  - Identifier ~
+  - Variable ~
+  - Constant ~
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
+  - Function ~
+  - Procedure 
+  - Method ~
+  - Class ~
   - Prototype
   - Event
-  - Type
+  - Type ~
   - Flag
   - Lexical scope
   - Code block
@@ -66,7 +66,7 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types ~
   - Reference types
   - Type systems
   - Strong typing
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument ~
+  - Parameter ~
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array ~
   - Structure
   - Record
   - Enum
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler +
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers *
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system *
+  - Linux ~
+  - Unix ~
   - BSD
   - MacOS
-  - Windows
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards

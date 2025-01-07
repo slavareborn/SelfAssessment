@@ -59,12 +59,12 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` ~
+  - `while` ~
+  - `do..while` ~
+  - `for` ~
+  - `for..in` ~
+  - `for..of` ~
   - `for await`
   - `throw`
   - `break`
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array` ~
   - `Map`
   - `Set`
   - `WeakMap`
